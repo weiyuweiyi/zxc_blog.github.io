@@ -16,7 +16,7 @@ permalink: /about/
 
 ## 联系
 
-<ul>
+<!-- <ul>
 {% for website in site.data.social %}
 <li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
 {% endfor %}
@@ -26,8 +26,9 @@ permalink: /about/
 <img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ site.url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" />
 </li>
 {% endif %}
-</ul>
+</ul> -->
 
+邮箱：zhu_xichou@163.com
 
 ## Skill Keywords
 

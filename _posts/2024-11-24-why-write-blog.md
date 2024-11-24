@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 为什么写博客，写那些
+title: 为什么写博客，写哪些
 categories: GitHub
 description: 为什么要写博客，写哪些博客，自己的一些想法
 keywords: Jekyll, Blog
